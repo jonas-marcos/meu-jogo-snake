@@ -36,3 +36,18 @@ Este projeto foi desenvolvido por **Jonas Marcos Dias Rocha**.
 Informações sobre como funciona o jogo da Cobrinha --> [https://pt.wikipedia.org/wiki/Jogo_de_mem%C3%B3ria](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 
 Ajuda pra programar --> https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
+
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+## Como Replicar e Executar o Projeto
+
+1. **Clone este repositório:**
+   Se você deseja replicar o projeto para sua máquina local, execute o seguinte comando no seu terminal:
+
+   ```bash
+   git clone https://github.com/jonas-marcos/meu-jogo-snake.git
+
